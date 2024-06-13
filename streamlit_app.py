@@ -1,7 +1,7 @@
-!pip install google-api-python-client
-!pip install hampel
-!pip install pandas statsmodels
-!pip install streamlit
+pip install google-api-python-client
+pip install hampel
+pip install pandas statsmodels
+pip install streamlit
 
 import os
 import glob
